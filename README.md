@@ -1,5 +1,5 @@
-# wishlist-api-magento
-Wishlist Product API Working fine on Magento 2.3.3
+
+# Wishlist Product API Working fine on Magento 2.3.3
 
 1> Add Product https://terazio.com/rest/V1/wishlist/add/{productID}?customerId={customerID}
 
